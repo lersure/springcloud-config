@@ -1,7 +1,7 @@
 data:
   env: config-eureka-dev
   user:
-    username: eureka-client-user
+    username: config-dev
     password: 123456
   state:
     userState: YES
